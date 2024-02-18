@@ -26,7 +26,7 @@ jobs:
         run: hugo
 
       - name: Recreate CNAME
-      run: echo 'www.orechou.com' > public/CNAME  # 使用你的自定义域名
+        run: echo 'www.orechou.com' > public/CNAME  # 使用你的自定义域名
 
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v3
