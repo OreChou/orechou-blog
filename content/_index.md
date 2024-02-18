@@ -12,4 +12,7 @@ All pages not under the root directory of the website are listed below. You can 
 Coding 💻 & Reading 📖 & Playing 🎮 & Listening 🎧
 
 希望能够体验、记录更多的生活。
-构建这个博客小站，是为了让人看到，希望能交到一些朋友。😄
+构建这个博客小站，是为了让人看到，希望能交到一些朋友。
+
+😄
+😄😄
