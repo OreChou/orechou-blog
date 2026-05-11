@@ -1,7 +1,7 @@
 ---
 title: "我看见的世界"
 author: "[美] 李飞飞 赵灿"
-cover: "https://neodb.social/m/item/doubanbook/2024/10/11/2b72c95d-705e-4a09-8598-0d324d772e1b.jpg"
+cover: "https://neodb.social/m/item/doubanbook/2024/04/16/da913b2a-342d-4877-9436-0fc0ca0348aa.jpg"
 rating: 5
 dateFinished: 2026-05-07
 readingTime: "10 days"
