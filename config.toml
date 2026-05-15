@@ -89,6 +89,10 @@ paginate = 5
     showRating = true
     showReadingTime = true
 
+  # Music configuration
+  [params.music]
+    enabled = true
+
   # Social links (optional)
   [[params.social]]
     name = "github"
