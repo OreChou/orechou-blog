@@ -20,9 +20,14 @@ name = "Posts"
 url = "/posts"
 weight = 2
 
+# [[menu.main]]
+# name = "Books"
+# url = "/books"
+# weight = 3
+
 [[menu.main]]
-name = "Books"
-url = "/books"
+name = "Library"
+url = "/neodb"
 weight = 3
 
 # [[menu.main]]
@@ -92,6 +97,14 @@ paginate = 5
   # Music configuration
   [params.music]
     enabled = true
+
+  # NeoDB configuration
+  # 1. Deploy the Cloudflare Worker from neodb-worker.js
+  # 2. Set NEODB_TOKEN env var in your Worker settings
+  # 3. Set apiUrl to your Worker URL below
+  [params.neodb]
+    enabled = true
+      apiUrl = "https://neodb-proxy.orechou.workers.dev"
 
   # Social links (optional)
   [[params.social]]
