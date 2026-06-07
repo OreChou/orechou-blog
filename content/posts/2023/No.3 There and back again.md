@@ -2,6 +2,8 @@
 title: 【Cyber Weekly】No.3 There and back again
 date: 2023-01-22 22:00:00
 tags: cyber weekly
+categories:
+  - Life
 ---
 
 > Cyber weekly 收录本人获取到的 Crypto、Backend & Mobile 相关资讯、技术，另外夹杂一些生活记录。

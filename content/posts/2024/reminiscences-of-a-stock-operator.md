@@ -6,6 +6,8 @@ rating: 3
 date: 2024-04-23 00:00:00
 readingTime: "Unknown"
 tags: ["book"]
+categories:
+  - Reading
 summary: 本书以拉瑞·利文斯顿的第一人称撰写，记述了这位20世纪20年代华尔街的风云人物在股票交易方面的传奇经历和感悟，探讨了股票市场的本质、股票交易的原则以及参与各方的心理与策略。
 ---
 

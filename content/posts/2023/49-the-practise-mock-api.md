@@ -2,6 +2,8 @@
 title: 关于接口 mock 的技术实现
 date: 2023-09-11 20:50:00
 tags: [OpenAPI, JSON Schema, mockjs]
+categories:
+  - Tech
 ---
 
 最近在做接口 mock 的功能，用到了一些新的技术，主要有 OpenAPI 规范、JsonSchema 和 mockjs。这里简单的记录下技术方案，以及过程中曾踩到的坑。

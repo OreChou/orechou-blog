@@ -2,6 +2,8 @@
 title: 关于 PriorityOrdered 和 Ordered 的使用
 date: 2023-02-09 23:00:00
 tags: [Spring, Java]
+categories:
+  - Tech
 ---
 
 ## 背景

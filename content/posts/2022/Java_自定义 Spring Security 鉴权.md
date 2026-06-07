@@ -2,6 +2,8 @@
 title: 自定义 Spring Security 鉴权
 date: 2022-06-01 17:00:00
 tags: [Java, Spring]
+categories:
+  - Tech
 ---
 
 # 背景

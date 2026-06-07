@@ -2,6 +2,8 @@
 title: 写在巨人完结之后
 date: 2023-11-07 20:50:00
 tags: [進撃の巨人]
+categories:
+  - Life
 ---
 
 我是听了[《ltterasshai》](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd)这首歌之后才去看的最终季后篇。

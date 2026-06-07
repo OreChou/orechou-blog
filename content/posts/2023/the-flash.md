@@ -2,6 +2,8 @@
 title: 【观影】《The Flash》
 date: 2023-06-18 23:00:00
 tags: Movie
+categories:
+  - Life
 ---
 
 > Run, Barry, Run.

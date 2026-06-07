@@ -2,6 +2,8 @@
 title: 【Cyber Weekly】No.2 Red dead Redemption
 date: 2022-12-11 22:00:00
 tags: cyber weekly
+categories:
+  - Life
 ---
 > Cyber weekly 收录本人获取到的 Crypto、Backend & Mobile 相关资讯、技术，另外夹杂一些生活碎嘴。
 ![](https://orechou.oss-cn-shenzhen.aliyuncs.com/images/no2_red_read_%20redemption.JPG)

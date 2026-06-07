@@ -2,6 +2,8 @@
 title: 【Cyber Weekly】No.7 Kanata Haluka
 date: 2023-03-26 22:00:00
 tags: cyber weekly
+categories:
+  - Life
 ---
 
 > 歌词：

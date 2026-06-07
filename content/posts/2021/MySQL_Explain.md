@@ -2,6 +2,8 @@
 title: 【MySQL】Explain
 date: 2021-08-06 17:00:00
 tags: MySQL
+categories:
+  - Tech
 ---
 
 # MySQL Explain

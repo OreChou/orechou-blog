@@ -2,6 +2,8 @@
 title: 【歌曲】Deadman's Gun && That's The Way It Is
 date: 2022-04-28 00:25:00
 tags: [Song,Life]
+categories:
+  - Life
 ---
 
 成长道路是比较痛苦的，从青年一路走过来，自己的棱角被磨圆，没有了以往的神气。

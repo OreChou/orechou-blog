@@ -2,6 +2,8 @@
 title: 【DevOps】使用 Docker 搭建 MySQL 主从复制架构
 date: 2023-06-28 18:30:00
 tags: [DevOps,MySQL]
+categories:
+  - Tech
 ---
 
 这篇文章介绍一下如何使用 Docker 搭建 MySQL 主从复制架构，文中的架构中包含一个主节点 master，一个从节点 slave。

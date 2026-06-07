@@ -2,6 +2,8 @@
 title: 【Cyber Weekly】No.4 Do not go gentle into that good night
 date: 2023-02-05 22:00:00
 tags: cyber weekly
+categories:
+  - Life
 ---
 > 本周看了很多科幻影视剧，其实也就是《流浪地球2》和《三体》啦，所以本周的图片我将使用《星际穿越》的截图。[Doge]
 Do not go gentle into that good night. 

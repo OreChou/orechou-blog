@@ -2,6 +2,8 @@
 title: 【Cyber Weekly】No.5 The Curious Case of Benjamin Button
 date: 2023-03-05 22:00:00
 tags: cyber weekly
+categories:
+  - Life
 ---
 
 > You could be mad as a mad dog at the way things went, you can swear and curse the fates, but when it comes to the end, you have to let go.

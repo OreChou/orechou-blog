@@ -2,6 +2,8 @@
 title: 【MySQL】慢 SQL 分析
 date: 2021-08-10 12:30:00
 tags: MySQL
+categories:
+  - Tech
 ---
 
 ## 慢查询日志分析

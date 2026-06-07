@@ -2,6 +2,8 @@
 title: 【MySQL】实现列表数据置顶
 date: 2021-08-16 14:46:00
 tags: MySQL
+categories:
+  - Tech
 ---
 
 有的列表获取的业务场景，需要根据一些条件将数据置顶。

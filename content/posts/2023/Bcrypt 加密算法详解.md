@@ -2,6 +2,8 @@
 title: Bcrypt 加密算法详解
 date: 2023-02-12 18:00:00
 tags: [Spring, Java, 密码学]
+categories:
+  - Tech
 ---
 最近在回顾中台系统的用户权限设计，在用户密码落库这块使用了 Bcrypt 算法来保证安全性，这篇文章是对该算法的一个详细介绍。
 

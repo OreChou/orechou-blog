@@ -2,6 +2,8 @@
 title: 【DevOps】使用 Grafana 和 Prometheus 做服务监控
 date: 2023-06-27 15:45:00
 tags: [DevOps,Grafana,Prometheus]
+categories:
+  - Tech
 ---
 
 最近需要对自己的一些服务做监控，于是想要动手实践使用一下 Grafana 和 Prometheus。这篇文章就主要介绍搭建 Grafana 和 Prometheus 对 MySQL 做监控的过程。
