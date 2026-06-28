@@ -66,6 +66,15 @@ weight = 6
 # Pagination
 paginate = 5
 
+# Custom output formats
+[outputFormats.searchindex]
+  baseName = "searchindex"
+  mediaType = "application/json"
+  isPlainText = true
+
+[outputs]
+  home = ["html", "rss", "searchindex"]
+
 # Parameters
 [params]
   colortheme = "white"  # Options: dark, white
@@ -87,6 +96,10 @@ paginate = 5
   # Comments system (optional)
   [params.comments]
     enabled = false  # Disabled by default
+
+  # Search configuration (client-side fuzzy search)
+  [params.search]
+    enabled = true
 
   # Books configuration
   [params.books]
